@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/GridControlSample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/GridControlSample/MainWindow.xaml))**
+* [SampleSource.cs](./CS/GridControlSample/SampleSource.cs) (VB: [SampleSource.vb](./VB/GridControlSample/SampleSource.vb))
+<!-- default file list end -->
 # How to make a grid column fit all the available space
 
 
